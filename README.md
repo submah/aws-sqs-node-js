@@ -1,7 +1,6 @@
 # AWS SQS NodeJS Example
 
-Follow the instructions below on an EC2 Ubuntu instance. This tutorial will help you setup the AWS SDK using NodeJS. If you have any questions please contact me!
-
+Follow the instructions below on an EC2 Ubuntu instance. This tutorial will help you setup the AWS SDK using NodeJS. 
 ```
 sudo su
 apt-get update
